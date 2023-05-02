@@ -1026,7 +1026,7 @@ CONFIG_make=y
 #
 # ruby 
 #
-#CONFIG_ruby=y
+# CONFIG_ruby is not set
 # CONFIG_ruby-dev is not set
 # CONFIG_ruby-rdoc is not set
 # CONFIG_ruby-dbg is not set
@@ -1210,18 +1210,18 @@ CONFIG_expat-dev=y
 #
 # ffmpeg 
 #
-#CONFIG_ffmpeg=y
+# CONFIG_ffmpeg is not set
 # CONFIG_ffmpeg-dbg is not set
-#CONFIG_ffmpeg-dev=y
+# CONFIG_ffmpeg-dev is not set
 
 #
 # flac 
 #
-#CONFIG_flac=y
+# CONFIG_flac is not set
 # CONFIG_flac-dbg is not set
-#CONFIG_libflacPLUSPLUS=y
-#CONFIG_libflac=y
-#CONFIG_flac-dev=y
+# CONFIG_libflacPLUSPLUS is not set
+# CONFIG_libflac is not set
+# CONFIG_flac-dev is not set
 
 #
 # fontconfig 
@@ -1527,8 +1527,8 @@ CONFIG_libgpiod-dev=y
 #
 # libpng 
 #
-#CONFIG_libpng=y
-#CONFIG_libpng-dev=y
+# CONFIG_libpng is not set
+# CONFIG_libpng-dev is not set
 # CONFIG_libpng-dbg is not set
 # CONFIG_libpng-tools is not set
 
@@ -1945,8 +1945,8 @@ CONFIG_libssl=y
 #
 # opencv 
 #
-#CONFIG_opencv=y
-#CONFIG_opencv-dev=y
+# CONFIG_opencv is not set
+# CONFIG_opencv-dev is not set
 # CONFIG_opencv-apps is not set
 # CONFIG_opencv-samples is not set
 # CONFIG_opencv-dbg is not set
@@ -2297,21 +2297,21 @@ CONFIG_ldd=y
 #
 # gst-player 
 #
-#CONFIG_gst-player=y
+# CONFIG_gst-player is not set
 
 #
 # gstreamer1.0-plugins-bad 
 #
-#CONFIG_gstreamer1.0-plugins-bad=y
+# CONFIG_gstreamer1.0-plugins-bad is not set
 # CONFIG_gstreamer1.0-plugins-bad-meta is not set
-#CONFIG_gstreamer1.0-plugins-bad-dev=y
+# CONFIG_gstreamer1.0-plugins-bad-dev is not set
 # CONFIG_gstreamer1.0-plugins-bad-dbg is not set
 
 #
 # gstreamer1.0-plugins-base 
 #
-#CONFIG_gstreamer1.0-plugins-base=y
-#CONFIG_gstreamer1.0-plugins-base-dev=y
+# CONFIG_gstreamer1.0-plugins-base is not set
+# CONFIG_gstreamer1.0-plugins-base-dev is not set
 # CONFIG_gstreamer1.0-plugins-base-apps is not set
 # CONFIG_gstreamer1.0-plugins-base-meta is not set
 # CONFIG_gstreamer1.0-plugins-base-dbg is not set
@@ -2319,9 +2319,9 @@ CONFIG_ldd=y
 #
 # gstreamer1.0-plugins-good 
 #
-#CONFIG_gstreamer1.0-plugins-good=y
+# CONFIG_gstreamer1.0-plugins-good is not set
 # CONFIG_gstreamer1.0-plugins-good-meta is not set
-#CONFIG_gstreamer1.0-plugins-good-dev=y
+# CONFIG_gstreamer1.0-plugins-good-dev is not set
 # CONFIG_gstreamer1.0-plugins-good-dbg is not set
 
 #
@@ -3330,10 +3330,10 @@ CONFIG_avahi-daemon=y
 #
 # wpa-supplicant 
 #
-#CONFIG_wpa-supplicant=y
-#CONFIG_wpa-supplicant-passphrase=y
-#CONFIG_wpa-supplicant-cli=y
-#CONFIG_wpa-supplicant-dev=y
+# CONFIG_wpa-supplicant is not set
+# CONFIG_wpa-supplicant-passphrase is not set
+# CONFIG_wpa-supplicant-cli is not set
+# CONFIG_wpa-supplicant-dev is not set
 # CONFIG_wpa-supplicant-dbg is not set
 
 #
